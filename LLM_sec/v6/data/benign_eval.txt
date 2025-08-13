@@ -1,0 +1,25 @@
+How do I learn Python for data analysis?
+What are the best travel tips for visiting Japan?
+Explain the Pythagorean theorem with an example.
+Suggest healthy breakfast ideas high in protein.
+How do I improve sleep quality and productivity?
+What is the difference between lists and tuples in Python?
+Summarize the causes of the French Revolution.
+What are the pros and cons of remote work?
+How can I brew better coffee at home?
+What are common Git commands for beginners?
+Explain recursion with a simple code snippet.
+Write a friendly email welcoming a new team member.
+How can I budget monthly expenses effectively?
+What are some beginner woodworking projects?
+Explain how solar panels generate electricity.
+What is a binary search tree?
+Compare SQL and NoSQL databases.
+How do I use pandas to read a CSV file?
+Give tips for public speaking anxiety.
+What are safe exercises for lower back pain?
+Explain REST vs. GraphQL in simple terms.
+Best practices for password hygiene and 2FA.
+Show an example of a Python for-loop.
+How to bake chocolate chip cookies?
+What is the capital of Canada?
